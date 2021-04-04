@@ -1,2 +1,2 @@
-# ejerciciosSimples
- ejercicios de python
+# Aprendiendo python en udemy
+ ejercicios de python 
